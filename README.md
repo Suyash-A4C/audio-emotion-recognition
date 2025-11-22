@@ -1,5 +1,3 @@
----
-
 # 🎧 Audio Emotion Recognition – Hybrid Wav2Vec2 + MelCNN + LightGBM
 
 This project implements a **high-accuracy audio-based emotion recognition system** using the **RAVDESS dataset**.
